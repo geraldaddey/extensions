@@ -1,5 +1,18 @@
 # Granola Changelog
 
+## [1.6.2] - 2025-12-14
+
+- Updated extension icon
+
+## [1.6.1] - 2025-10-08
+
+### ✨ Enhancements
+- Added folder-aware filtering to the **Export Transcripts** and **Export Notes** commands, including note counts, folder icons, and a dedicated "Notes Not in Folders" view.
+- ZIP exports are now grouped by original folder when available, keeping downloaded files grouped the way they appear in Granola.
+
+### 🔧 Bug Fixes
+- Fixed a bug with fetching recipes.
+
 ## [1.6] - 2025-09-17
 
 ### 🚀 New Commands

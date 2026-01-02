@@ -1,5 +1,18 @@
 # Raycast Fork Extensions Changelog
 
+## [Improvements] - 2025-12-17
+
+- Add support for opening an extension folder with a default application
+
+## [Bugfix] - 2025-11-17
+
+- Fix init repository when user path has spaces
+
+## [Improvements] - 2025-09-29
+
+- Add support for checking if commits are ahead
+- Add support for checking if the current branch is not "main"
+
 ## [Bugfix] - 2025-09-17
 
 - Fix the incorrect clipboard content when copying the extension path
